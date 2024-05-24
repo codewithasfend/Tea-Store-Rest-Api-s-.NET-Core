@@ -1,0 +1,6 @@
+@TeaStoreApi_HostAddress = http://localhost:5273
+
+GET {{TeaStoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
